@@ -27,6 +27,9 @@
 > [Icon List](https://oblador.github.io/react-native-vector-icons/)<br>
 > Lista de todos los iconos junto a su correspondiente publisher.
 
+> [JSON Server](https://github.com/typicode/json-server)<br>
+> Herramienta que nos permite montar una API para leer/editar/ingresar datos de un archivo .json de una manera muy sencilla.
+
 ### Componentes
 
 > [NativeBase](https://docs.nativebase.io/)<br>
