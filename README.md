@@ -21,16 +21,16 @@
 
 ### Herramientas
 
-> [Snack Expo](https://snack.expo.io):
+> [Snack Expo](https://snack.expo.io)<br>
 > Web que nos permite codear y ejecutar proyectos en Expo de manera virtual o tambien directamente en nuestro teléfono.
 
-> [Icon List](https://oblador.github.io/react-native-vector-icons/):
+> [Icon List](https://oblador.github.io/react-native-vector-icons/)<br>
 > Lista de todos los iconos junto a su correspondiente publisher.
 
 ### Componentes
 
-> [NativeBase](https://docs.nativebase.io/):
+> [NativeBase](https://docs.nativebase.io/)<br>
 > Set de componentes armados que respetan el material design
 
-> [React Native Elements](https://reactnativeelements.com/docs):
+> [React Native Elements](https://reactnativeelements.com/docs)<br>
 > Otro set de componentes ya armados...
