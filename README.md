@@ -37,3 +37,6 @@
 
 > [React Native Elements](https://reactnativeelements.com/docs)<br>
 > Otro set de componentes ya armados...
+
+> [React Native Paper](https://callstack.github.io/react-native-paper/index.html)<br>
+> Set de componentes
