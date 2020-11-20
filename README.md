@@ -30,6 +30,14 @@
 > [JSON Server](https://github.com/typicode/json-server)<br>
 > Herramienta que nos permite montar una API para leer/editar/ingresar datos de un archivo .json de una manera muy sencilla.
 
+### Extensiones
+
+> [React Native Router Flux](https://github.com/aksonov/react-native-router-flux)<br>
+> API/Libreria que reduce la sintaxis a la hora de configurar rutas en React Navigation haciendolo mas simple
+
+> [Maps](https://github.com/react-native-maps/react-native-maps)<br>
+> Componente que permite la visualización e interaccion con mapas y todos sus elementos totalmente configurables (markers, polygon, circles, etc)
+
 ### Componentes
 
 > [NativeBase](https://docs.nativebase.io/)<br>
